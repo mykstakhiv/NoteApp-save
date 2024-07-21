@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\NoteApp\NoteApp\bin\Debug\net8.0-windows\NoteApp.exe
+C:\Users\Admin\source\repos\NoteApp\NoteApp\bin\Debug\net8.0-windows\NoteApp.deps.json
+C:\Users\Admin\source\repos\NoteApp\NoteApp\bin\Debug\net8.0-windows\NoteApp.runtimeconfig.json
+C:\Users\Admin\source\repos\NoteApp\NoteApp\bin\Debug\net8.0-windows\NoteApp.dll
+C:\Users\Admin\source\repos\NoteApp\NoteApp\bin\Debug\net8.0-windows\NoteApp.pdb
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.Form1.resources
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.MainMenu.resources
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.dll
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\refint\NoteApp.dll
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.pdb
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\NoteApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\NoteApp\NoteApp\obj\Debug\net8.0-windows\ref\NoteApp.dll
