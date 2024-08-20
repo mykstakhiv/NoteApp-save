@@ -131,5 +131,24 @@ namespace NoteApp
             ListsDropDown.Items.Clear();
             NoteBookData.ListNoteBooks.Clear();
         }
+        
+        private void DeleteNoteBook(object sender, EventArgs e)
+        {
+            foreach(string noteBook in ListsDropDown.Items)
+            {
+                if(deleteListText.Text == noteBook)
+                {        
+                    ListsDropDown.Items.Remove(noteBook);
+                }
+            }
+
+            var noteBookToRemove = NoteBookData.ListNoteBooks
+                .FirstOrDefault(noteBook => noteBook.Name == deleteListText.Text);
+
+            if (noteBookToRemove != null)
+            {
+                NoteBookData.ListNoteBooks.Remove(noteBookToRemove);
+            }
+        }
     }
 }
